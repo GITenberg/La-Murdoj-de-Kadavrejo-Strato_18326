@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/481
     wikipedia: http://en.wikipedia.org/wiki/Edgar_Allan_Poe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18326#La-Murdoj-de-Kadavrejo-Strato
 gutenberg_bookshelf: Esperanto
 gutenberg_issued: '2006-05-06'
 gutenberg_type: Text
